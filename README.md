@@ -1,4 +1,4 @@
-Welcome to my GitHub Repository! :D
+<b>Welcome to my GitHub Repository!</b>
 
 About me: I am professional with 15 years of experience, involved with Energy, Geosciences and Technology. 
 My Experience: Data Management, ETL and geospatial solutions, including: surveying, GIS, CAD, BIM, LiDAR, remote sensing, drones, 3D, databases and cloud. 
